@@ -1,0 +1,16 @@
+body{
+  margin: 0;
+  padding: 0;
+  background-color: #fff;
+  width: 100%;
+ 
+}
+.detail{
+  
+  display: flex;
+  justify-content: center;
+}
+.list{
+  text-align: center;
+  
+}
